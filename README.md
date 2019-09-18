@@ -9,3 +9,8 @@ git checkout dev // 切换到dev分支
 
 
 ```
+
+### git reset --hard
+```
+git reset --head^^
+```
